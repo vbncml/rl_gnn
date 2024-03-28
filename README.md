@@ -1,4 +1,4 @@
-# Results visualusatin
+# Results Visualization
 
 ## 6-legged creature
 
