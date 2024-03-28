@@ -3,7 +3,7 @@
 ## 6-legged creature
 
 ### FNN
-![](gifs/dog6_env-fnn_a_animation.gif)
+![](gifs/dog6_env-fnn_a_animation.gif){ .image25percent }
 ### RecGCN
 ![](gifs/dog6_env-recurrent_gcn_a_animation.gif)
 
